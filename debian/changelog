@@ -1,0 +1,6 @@
+gbterminal (0.1.18.ubuntu01) bionic; urgency=medium
+
+  * Enable to launchpad (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Williams Lopez <williamsflc@gmail.com>  Mon, 29 Oct 2018 17:48:52 -0600
+

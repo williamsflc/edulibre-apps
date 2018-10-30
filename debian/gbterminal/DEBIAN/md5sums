@@ -1,0 +1,11 @@
+36865941b13520c9445164e8cffefe2b  usr/bin/gbTerminal
+530826afbfa162390e29ea1e90eee22a  usr/share/applications/gbterminal.desktop
+d2cde1dd5560b0c397fbe61bc2f43998  usr/share/doc/gbterminal/README.Debian
+9d0fd69ba8e0000db327aaedd8ea4b3c  usr/share/doc/gbterminal/changelog.gz
+0cd5f5ab292337b53e6dc233f5b85877  usr/share/doc/gbterminal/copyright
+aa8295410a0cf5e6eb43b248b2d784a6  usr/share/icons/hicolor/16x16/apps/logo.png
+5050bda839effef6c3c2d4361cdea1ad  usr/share/icons/hicolor/22x22/apps/logo.png
+7face90ae855d2815e5a7383654bf026  usr/share/icons/hicolor/32x32/apps/logo.png
+1a1a042b032542bf7609db6334796cc4  usr/share/icons/hicolor/48x48/apps/logo.png
+6579e07c937378ca496f5a986ee45688  usr/share/menu/gbterminal
+1eae2badc44d6c78c3e4e3dc830b7128  usr/share/pixmaps/gbterminal.xpm

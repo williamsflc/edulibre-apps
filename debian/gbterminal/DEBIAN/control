@@ -1,0 +1,12 @@
+Package: gbterminal
+Version: 0.1.18.ubuntu01
+Architecture: amd64
+Maintainer: Herberth Guzmán <herberthguzman@gmail.com>
+Installed-Size: 198
+Depends: gambas3-runtime (>= 3.11), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.11), gambas3-gb-image (<< 3.99.0), gambas3-gb-qt5 (>= 3.11), gambas3-gb-qt5 (<< 3.99.0), gambas3-gb-form (>= 3.11), gambas3-gb-form (<< 3.99.0), gambas3-gb-desktop (>= 3.11), gambas3-gb-desktop (<< 3.99.0), gambas3-gb-desktop-x11 (>= 3.11), gambas3-gb-desktop-x11 (<< 3.99.0), gambas3-gb-settings (>= 3.11), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.11), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.11), gambas3-gb-form-terminal (<< 3.99.0)
+Section: contrib/admin
+Priority: optional
+Homepage: http://edulibre.net
+Description: gbterminal - Edulibre software
+ Pictogram is an application to view and edit images in a simple and fast way
+ Contact rbencho@gmail.com.
